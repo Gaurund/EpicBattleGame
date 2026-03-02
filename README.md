@@ -1,8 +1,8 @@
-# Игра "Эпическая битва"
-Проект написанный на Java в целях освоения оного.
+# Game "Epic Battle"
+A project written in Java for the purpose of learning it.
 
-## Суть происходящего
+## What's happening
 
-Программа создаёт две армии (знать vs чернь), которые неуклонно рандомайзят друг дружку до тотального уничтожения.
+The program creates two armies (nobility vs commoners) that relentlessly battle each other until total destruction.
 
-Исходный вариант игры делает всё в консоли. Но есть и расширение игры с помощью libGDX, где графика и звук добавляют происходящему некоторую эстетику компьютерных игр конца прошлого века. 
+The original version of the game does everything in the console. But there is also an extended version of the game using libGDX, where graphics and sound add some aesthetic qualities of old-school computer games.
